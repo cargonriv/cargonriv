@@ -32,8 +32,8 @@
     <code><a href="https://www.paypal.me/cargonriv"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
   </h5>
 </div>
-<details>
 <div align="center">
+<details>
 	<summary>Show All</summary>
   <br />
   <h2 align="center">📈 Visual Statistics</h2>
@@ -74,5 +74,6 @@
       <code><img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
     </p>
   </div>
-</div>
 </details>
+</div>
+
