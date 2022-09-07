@@ -24,12 +24,10 @@
     ·
     <a href="mailto:admin@cargonriv.dev">E-Mail</a>
     ·
-    <a href="https://wa.me/message/####">Whatsapp</a>
    <h5>
-    <code><a href="https://www.facebook.com/XploitID" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook</a></code>
-    <code><a href="https://www.twitter.com/zidansec" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
-    <code><a href="https://wa.me/6289656181337" title="WhatsApp"><img width="22" src="images/whatsapp.svg"> WhatsApp</a></code>
-    <code><a href="https://www.instagram.com/zidans_ra/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+    <code><a href="https://www.twitter.com/cargonriv" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
+    <code><a href="https://wa.me/####" title="WhatsApp"><img width="22" src="images/whatsapp.svg"> WhatsApp</a></code>
+    <code><a href="https://www.instagram.com/cargonriv/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
     <br /><br />
     <code><a href="https://www.paypal.me/cargonriv"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
   </h5>
@@ -42,10 +40,9 @@
     <!img align="center" src="https://github-readme-stats.vercel.app/api?username=cargonriv&theme=github_dark&show_icons=true" alt="Github Stats">
     <img src="https://activity-graph.herokuapp.com/graph?username=cargonriv&theme=react-dark&bg_color=20232a&hide_border=true" />
     <img height="135px" src="https://github-readme-stats.vercel.app/api?username=cargonriv&count_private=true&show_icons=true&bg_color=0,52fa5a,4dfcff,c64dff&theme=synthwave&text_color=4C4C4C&icon_color=267AAB&title_color=170DB2&hide_border=true&line_height=18layout=compact" />
-	  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cargonriv&count_private=true&show_icons=true&bg_color=0,c64dff,4dfcff,52fa5a&theme=synthwave&text_color=4C4C4C&icon_color=267AAB&title_color=170DB2&hide_border=true" />
-	</div>
+    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cargonriv&count_private=true&show_icons=true&bg_color=0,c64dff,4dfcff,52fa5a&theme=synthwave&text_color=4C4C4C&icon_color=267AAB&title_color=170DB2&hide_border=true" />
+  </div>
   <br />
-
     <h2>🔥 Languages, Frameworks, Platforms, and Tools 🔥</h2><br />
     <p>
       <code><img href="#" title="C" height="25" src="images/c.svg"></code>
