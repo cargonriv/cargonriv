@@ -50,15 +50,16 @@
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cargonriv&theme=github_dark&show_icons=true" alt="Github Stats">
 </div>
-<img height="135px" src="https://github-readme-stats.vercel.app/api?username=cargonriv&count_private=true&show_icons=true&bg_color=0,52fa5a,4dfcff,c64dff&theme=synthwave&text_color=4C4C4C&icon_color=267AAB&title_color=170DB2&hide_border=true&line_height=18layout=compact" />
-  <!-- wi*quL3fcV -->
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cargonriv&count_private=true&show_icons=true&bg_color=0,c64dff,4dfcff,52fa5a&theme=synthwave&text_color=4C4C4C&icon_color=267AAB&title_color=170DB2&hide_border=true" />
   <br />
 <details>
 	<summary>Show All</summary>
   <br />
+  <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=cargonriv&theme=react-dark&bg_color=20232a&hide_border=true" />
-    <h2>🔥 Languages & Framework 🔥</h2><br />
+    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=cargonriv&count_private=true&show_icons=true&bg_color=0,52fa5a,4dfcff,c64dff&theme=synthwave&text_color=4C4C4C&icon_color=267AAB&title_color=170DB2&hide_border=true&line_height=18layout=compact" />
+	  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cargonriv&count_private=true&show_icons=true&bg_color=0,c64dff,4dfcff,52fa5a&theme=synthwave&text_color=4C4C4C&icon_color=267AAB&title_color=170DB2&hide_border=true" />
+	</div>
+    <h2>🔥 Languages, Frameworks, Platforms, and Tools 🔥</h2><br />
     <p>
       <code><img href="#" title="C" height="25" src="images/c.svg"></code>
       <code><img href="#" title="C++" height="25" src="images/cpp.svg"></code>
