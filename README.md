@@ -33,6 +33,7 @@
   </h5>
 </div>
 <details>
+<div align="center">
 	<summary>Show All</summary>
   <br />
   <h2 align="center">📈 Visual Statistics</h2>
@@ -43,6 +44,7 @@
     <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cargonriv&count_private=true&show_icons=true&bg_color=0,c64dff,4dfcff,52fa5a&theme=synthwave&text_color=4C4C4C&icon_color=267AAB&title_color=170DB2&hide_border=true" />
   </div>
   <br />
+  <div align="center">
     <h2>🔥 Languages, Frameworks, Platforms, and Tools 🔥</h2><br />
     <p>
       <code><img href="#" title="C" height="25" src="images/c.svg"></code>
@@ -55,10 +57,8 @@
       <code><img href="#" title="React" height="25" src="images/react-original.svg"></code>
       <code><img href="#" title="AngularJS" height="25" src="images/angularjs.png"></code>
       <code><img href="#" title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-      <code><img href="#" title="JQuery" height="25" src="images/jquery-original.svg"></code>
       <code><img href="#" title="Java" height="25" src="images/java-original.svg"></code>
       <code><img href="#" title="JSON" height="25" src="images/json.svg"></code>
-      <code><img href="#" title="Android" height="25" src="images/android.svg"></code>
       <code><img href="#" title="MySQL" height="25" src="images/mysql.svg"></code>
       <code><img href="#" title="npm" height="25" src="images/npm.svg"></code>
       <code><img href="#" title="Flask" height="25" src="images/flask.png"></code>
@@ -73,4 +73,6 @@
       <img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
       <img align="center" alt="PHP" width="26px" src="https://www.php.net/images/logos/php-logo.svg" />
     </p>
+  </div>
+</div>
 </details>
