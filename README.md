@@ -35,7 +35,7 @@
 <details>
 	<summary>Show All</summary>
   <br />
-  <h2 align="center">Visual Statistics</h2>
+  <h2 align="center">📈 Visual Statistics</h2>
   <div align="center">
     <!img align="center" src="https://github-readme-stats.vercel.app/api?username=cargonriv&theme=github_dark&show_icons=true" alt="Github Stats">
     <img src="https://activity-graph.herokuapp.com/graph?username=cargonriv&theme=react-dark&bg_color=20232a&hide_border=true" />
