@@ -64,7 +64,7 @@
       <code><img href="#" title="Flask" height="25" src="images/flask.png"></code>
       <code><img href="#" title="Docker" height="25" src="images/docker-original-wordmark.svg"></code>
       <code><img align="center" alt="PHP" width="26px" src="images/php.svg" /></code>
-      <code><img align="center" alt="HTML5" width="26px" src="images/html.svg" /></code>
+      <code><img align="center" alt="HTML5" width="26px" src="images/html5.svg" /></code>
       <code><img align="center" alt="CSS3" width="26px" src="images/css.svg" /></code>
       <code><img align="center" alt="JavaScript" width="26px" src="images/javascript.svg" /></code>
       <code><img align="center" alt="Git" width="26px" src="images/git-scm-icon.svg" /></code>
