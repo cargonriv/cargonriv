@@ -20,13 +20,13 @@
     ·
     <a href="https://www.youtube.com/channel/UCRNJR-4vI7CtJNoxlDaRmQw">Youtube</a>
     ·
-    <a href="https://discord.com/users/cargonriv#9713">Discord</a>
+    <a href="https://discord.com/users/695754195592282161">Discord</a>
     ·
     <a href="mailto:admin@cargonriv.dev">E-Mail</a>
     ·
    <h5>
     <code><a href="https://www.twitter.com/cargonriv" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
-    <code><a href="https://wa.me/####" title="WhatsApp"><img width="22" src="images/whatsapp.svg"> WhatsApp</a></code>
+    <code><a href="https://t.co/B1IKCtrbks" title="WhatsApp"><img width="22" src="images/whatsapp.svg"> WhatsApp</a></code>
     <code><a href="https://www.instagram.com/cargonriv/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
     <br /><br />
     <code><a href="https://www.paypal.me/cargonriv"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
@@ -47,11 +47,9 @@
   <div align="center">
     <h2>🔥 Languages, Frameworks, Platforms, and Tools 🔥</h2><br />
     <p>
-      <code><img href="#" title="C" height="25" src="images/c.svg"></code>
-      <code><img href="#" title="C++" height="25" src="images/cpp.svg"></code>
-      <code><img href="#" title="C#" height="25" src="images/cSharp.svg"></code>
       <code><img href="#" title="Python" height="25" src="images/python-original.svg"></code>
       <code><img href="#" title="Django" height="25" src="images/django.png"></code>
+      <code><img href="#" title="Flask" height="25" src="images/flask.png"></code>
       <code><img href="#" title="Typecript" height="25" src="images/typescript.svg"></code>
       <code><img href="#" title="Problem Solving" height="25" src="images/problemSolving.png"></code>
       <code><img href="#" title="React" height="25" src="images/react-original.svg"></code>
@@ -61,7 +59,8 @@
       <code><img href="#" title="JSON" height="25" src="images/json.svg"></code>
       <code><img href="#" title="MySQL" height="25" src="images/mysql.svg"></code>
       <code><img href="#" title="npm" height="25" src="images/npm.svg"></code>
-      <code><img href="#" title="Flask" height="25" src="images/flask.png"></code>
+      <code><img href="#" title="C" height="25" src="images/c.svg"></code>
+      <code><img href="#" title="C++" height="25" src="images/cpp.svg"></code>
       <code><img href="#" title="Docker" height="25" src="images/docker-original-wordmark.svg"></code>
       <code><img align="center" alt="PHP" width="26px" src="images/php.svg" /></code>
       <code><img align="center" alt="HTML5" width="26px" src="images/html5.svg" /></code>
