@@ -1,5 +1,5 @@
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=cargonriv&label=Visitors&color=12&icon=5&pretty=true)" />
+  <img src="https://visitcount.itsvg.in/api?id=cargonriv&label=Visitors&color=12&icon=5&pretty=true" />
 </a>
 <div id="top"></div><br />
 
