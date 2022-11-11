@@ -1,8 +1,3 @@
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=cargonriv&label=Visitors&color=12&icon=5&pretty=true" />
-</a>
-<div id="top"></div><br />
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&pause=1000&color=F7B013&center=true&vCenter=true&width=435&lines=Hello%2C+world!;My+name+is+Carlos+Gonzalez+Rivera" alt="Typing SVG" /></a>
 </div><br />
