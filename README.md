@@ -3,7 +3,7 @@
 </div><br />
 <div align="center">
   <br />
-	<p>- 👀 I’m interested in bioengineering applications, neuromorphic processing, and computer science...</p>
+	<p>- 👀 I’m interested in computer science, neuromorphic programming, and bioengineering applications...</p>
 	<br />
   <a></a>
   <a></a>
